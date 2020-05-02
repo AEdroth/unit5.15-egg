@@ -1,0 +1,26 @@
+.container h1 {
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
+
+#messages {
+    margin-top: 15px;
+}
+
+#button-fetch {
+    margin-left: 14px;
+    background: #ffffcc;
+    border-color: red;
+    color: red;
+}
+
+#button-fetch:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+#result {
+    margin: 15px 0 20px 14px;
+}
